@@ -1,0 +1,7 @@
+# Ignorar entornos virtuales de Python
+venv/
+__pycache__/
+
+# Ignorar archivos de configuración con contraseñas de SQL
+.env
+config.json
